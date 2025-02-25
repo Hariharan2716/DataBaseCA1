@@ -1,0 +1,26 @@
+{
+  "name": "databaseca1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hariharan2716/DataBaseCA1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hariharan2716/DataBaseCA1/issues"
+  },
+  "homepage": "https://github.com/Hariharan2716/DataBaseCA1#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.13.1",
+    "mongoose": "^8.10.1"
+  }
+}
