@@ -11,3 +11,5 @@ Restaurant Details Schema which has Name, City, Items Array with the field of re
 
 Schema 2
 Items details Schema Name, Price of the dish.
+
+At last added the changes and commited and pushed to the main branch
